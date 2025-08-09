@@ -123,8 +123,8 @@
   --radius-full: 9999px;
   
 .profile-photo {
-  width: 180px;
-  height: 180px;
+  width: 380px;
+  height: 380px;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid #0077B5; /* Example: LinkedIn blue */
@@ -1517,9 +1517,9 @@ select.form-control {
     }
 
     .profile-photo {
-        width: 250px;
-        height: 250px;
-        font-size: 80px;
+        width: 400px;
+        height: 400px;
+        font-size: 100px;
     }
 
     .about__container {
@@ -1585,9 +1585,9 @@ select.form-control {
     }
 
     .profile-photo {
-        width: 200px;
-        height: 200px;
-        font-size: 60px;
+        width: 400px;
+        height: 400px;
+        font-size: 100px;
     }
 
     .about__stats {
